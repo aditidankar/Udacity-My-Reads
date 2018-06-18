@@ -8,10 +8,10 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
-        "indent": [
+        /*"indent": [
             4,
-            "spaces"
-        ],
+            "space"
+        ],*/
         "linebreak-style": [
             "error",
             "unix"
